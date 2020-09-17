@@ -6,7 +6,7 @@
   <img align="center|top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnurep&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
-<br>
+<br><br>
 
   [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pnurep.github.io/)](https://pnurep.github.io/)
 
