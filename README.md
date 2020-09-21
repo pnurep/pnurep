@@ -1,9 +1,9 @@
 
 <a href="">
-  <img align="center|top" src="https://github-readme-stats.vercel.app/api/?username=pnurep&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center|top" src="https://github-readme-stats.vercel.app/api/?username=pnurep&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="">
-  <img align="center|top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnurep&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center|top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnurep&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
 <br><br>
